@@ -8,7 +8,7 @@ const AboutSection: React.FC = () => {
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-16 items-center">
           <div className="relative">
             {/* Experience Badge */}
-            <div className="absolute -top-8 -right-8 bg-red-600 text-white rounded-full p-6 shadow-lg z-10">
+            <div className="absolute -top-8 -right-4 bg-red-600 text-white rounded-full p-6 shadow-lg z-10">
               <div className="text-center">
                 <div className="text-2xl font-bold">24+</div>
                 <div className="text-xs">YEARS</div>
